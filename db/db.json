@@ -1,6 +1,16 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Routine",
+        "text": "Routines are mainly activities done within a set time",
+        "note_id": "42dde4e2-2d83-47d2-ac53-59a293cbadec"
+    },
+    {
+        "title": "Lifestyle",
+        "text": "The things you do and live by daily",
+        "note_id": "81d99a88-fd3b-4775-9d2e-17e770a0ac9b"
     }
 ]

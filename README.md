@@ -15,3 +15,7 @@
 ![Screenshot 2023-06-26 140158](https://github.com/AJosueBN/week-11-note-taker-challenge/assets/129113539/915189bf-b233-4021-9416-0a50fb57a300)
 
 ![Screenshot 2023-06-26 140453](https://github.com/AJosueBN/week-11-note-taker-challenge/assets/129113539/84474741-4906-435a-953a-1ebe97fbb4c2)
+
+# Deployed Application through Heroku
+
+https://express-note-taking-11-0e1fd379401b.herokuapp.com/

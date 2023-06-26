@@ -10,4 +10,8 @@
 - Can click on the delete button, and the note title along with the note's text is erased from the landing page
 - Notes have an unique note id identifier to identify the notes created on the landing page
 
-# Screenshot of the application
+# Screenshots of the application
+
+![Screenshot 2023-06-26 140158](https://github.com/AJosueBN/week-11-note-taker-challenge/assets/129113539/915189bf-b233-4021-9416-0a50fb57a300)
+
+![Screenshot 2023-06-26 140453](https://github.com/AJosueBN/week-11-note-taker-challenge/assets/129113539/84474741-4906-435a-953a-1ebe97fbb4c2)

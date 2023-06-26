@@ -1,36 +1,22 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "Routine",
         "text": "Routines are mainly activities done within a set time",
-        "note_id": "42dde4e2-2d83-47d2-ac53-59a293cbadec"
+        "id": "42dde4e2-2d83-47d2-ac53-59a293cbadec"
     },
     {
         "title": "Lifestyle",
         "text": "The things you do and live by daily",
-        "note_id": "81d99a88-fd3b-4775-9d2e-17e770a0ac9b"
-    },
-    {
-        "title": "Monday - Sunday",
-        "text": "Days within a week",
-        "note_id": "58994c7d-a6b0-496e-943c-478597f2d805"
+        "id": "81d99a88-fd3b-4775-9d2e-17e770a0ac9b"
     },
     {
         "title": "Different Sports",
         "text": "- Football\n- Basketball\n- Hockey\n- Tennis\n- Boxing",
-        "note_id": "c467b7b2-91ae-49a7-989f-aa03348c4cd4"
-    },
-    {
-        "title": "Types of footwear",
-        "text": "- Flip-flops\n- Trainers\n- Shoes\n- Sandals\n- Slippers\n- Boots",
-        "note_id": "5a03c33f-6b5e-4285-a2e9-e96b31d5eec5"
+        "id": "c467b7b2-91ae-49a7-989f-aa03348c4cd4"
     },
     {
         "title": "Types of music",
         "text": "- Reggae\n- Classical\n- Hip-Hop\n- Pop\n- Jazz\n",
-        "note_id": "d983b567-e8e7-49da-866c-bfa7c38d62d3"
+        "id": "d983b567-e8e7-49da-866c-bfa7c38d62d3"
     }
 ]

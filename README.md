@@ -8,4 +8,6 @@
 - Can save new note title and note text the user has written once I click on the save icon and will display on the left-hand column
 - When the user will be able to click on the write icon in the navigation at the top of the page , the user will be presented with empty fields to enter new note title and note's text in the right-hand column whilst also being able to click on the notes created previously
 - Can click on the delete button, and the note title along with the note's text is erased from the landing page
-- Notes have an  unique note id identifier to identify the notes created on the landing page
+- Notes have an unique note id identifier to identify the notes created on the landing page
+
+# Screenshot of the application
